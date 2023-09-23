@@ -27,17 +27,17 @@
 - S3 버킷에 저장되어 있는 이미지를 가져와서 얼굴 인식 후 결과를 리턴
 - 얼굴 인식 결과를 화면에 표시할 때 내가 원하는 결과만 가져옴
 - 현재 시간을 서버시간으로 알아내기
-- 
+
 ##### Streamlit
 - 얼굴 인식 페이지와 얼굴 비교 페이지를 나누어 구현
 - 유저에게 사진을 입력 받아 얼굴 인식 및 얼굴 비교 코드 실행
 
 ### Front-ends
 #### Android
-Intent를 사용하여 액티비티간의 정보를 주고 받음
-setOnClickListener를 활용해 사진을 탭 할때 사진 선택이 가능하도록 함
-Config클래스를 만들어 AWS_ACCESS_KEY 사용시 보안 유지
-AWS Rekognition 얼굴비교 함수를 이용해 얼굴 인식 API 이용
+- Intent를 사용하여 액티비티간의 정보를 주고 받음
+- setOnClickListener를 활용해 사진을 탭 할때 사진 선택이 가능하도록 함
+- Config클래스를 만들어 AWS_ACCESS_KEY 사용시 보안 유지
+- AWS Rekognition 얼굴비교 함수를 이용해 얼굴 인식 API 이용
 
 ### Open API
 - AWS Rekognition 얼굴 비교 및 얼굴 인식 기능 구현
