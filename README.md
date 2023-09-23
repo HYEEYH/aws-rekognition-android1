@@ -7,8 +7,8 @@
 
 * AWS의 Rekognition 기능 중 얼굴 인식과 얼굴 비교 기능을 사용하는 앱 입니다.<br/>
 <a href= "https://drive.google.com/file/d/133NNVSuKvDqlj6I9_djBQ8UDfyRwgMLY/view?usp=drive_link">[포트폴리오 보러 가기]</a><br/>
-<a href= "https://drive.google.com/file/d/1ANCrtx0upEF--Kr3LH4NQiaXr6qAoksl/view?usp=drive_link">[앱 대시보드 시연영상 보러 가기]</a><br/>
 <a href= "https://drive.google.com/file/d/1YCiA3spo6qHxr22r3X_G1uPT__j0eKV6/view?usp=drive_link">[앱 시연영상 보러 가기]</a><br/>
+<a href= "https://drive.google.com/file/d/1ANCrtx0upEF--Kr3LH4NQiaXr6qAoksl/view?usp=drive_link">[앱 대시보드 시연영상 보러 가기]</a><br/>
 <img src="https://github.com/HYEEYH/aws-rekognition-app2/assets/130967557/d91ae676-0d1f-4d7c-9dca-ba8ba7e65680"  width="700" height="392" /><br/><br/>
 
 ## 사용 툴
